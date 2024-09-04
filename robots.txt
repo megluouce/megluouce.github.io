@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://megluouce.github.io/sitemap.html.gz
+Sitemap: https://megluouce.github.io/app/sitemap.html.gz
+Sitemap: https://megluouce.github.io/assets/sitemap.html.gz
+Sitemap: https://megluouce.github.io/css/sitemap.html.gz
+Sitemap: https://megluouce.github.io/includes/sitemap.html.gz
+Sitemap: https://megluouce.github.io/item/sitemap.html.gz
+Sitemap: https://megluouce.github.io/src/sitemap.html.gz
